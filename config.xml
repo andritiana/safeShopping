@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.safeshopping891590" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>safeShopping</name>
+<widget id="com.ionicframework.sampleblank103888" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Safe Shopping</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Project to manage shopping expense
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="andritiana.ran@gmail.com">
+      Andritiana Randriambololontsoa
     </author>
   <content src="index.html"/>
   <access origin="*"/>
